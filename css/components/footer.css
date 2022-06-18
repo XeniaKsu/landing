@@ -1,0 +1,26 @@
+.footer {
+  text-align: center;
+  padding: 60px;
+  background-color: #2c2b2b;
+}
+
+.fa-instagram {
+  content: "\f16d";
+}
+
+.fa-twitter {
+  content: "\f099";
+}
+
+.fa-github {
+  content: "\f09b";
+}
+
+.fa-facebook-f {
+  content: "\f39e";
+}
+
+.footer a {
+  font-size: 30px;
+  color: #1EDD88;
+}
